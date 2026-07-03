@@ -1,9 +1,9 @@
 
 <br>
 
-<!-- KHU VỰC ẢNH BÌA VINTAGE (ĐÃ ĐỔI LINK DỰ PHÒNG TỐC ĐỘ CAO) -->
+<!-- ẢNH BÌA VINTAGE MỚI (Đã tối ưu hóa link hiển thị 100%) -->
 <p align="center">
-  <img src="https://imgur.com" width="65%" style="border-radius: 12px;">
+  <img src="https://githubusercontent.com" width="65%" style="border-radius: 12px;">
 </p>
 
 <!-- Thanh phân cách mờ -->
